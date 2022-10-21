@@ -1,60 +1,52 @@
 <Food>
     <ThaiFood>
-        <FoodID><FoodID> 001 </FoodID>
+        <FoodID> 001 </FoodID>
         <FoodName>ผัดกระเพราหมู </FoodName>
         <Price> 35 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
-        <FoodID><FoodID> 00/ </FoodID>
+        <FoodID> 00/ </FoodID>
         <FoodName>ผัดคะน้า </FoodName>
         <Price> 30 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
-        <FoodID><FoodID> 003 </FoodID>
+        <FoodID> 003 </FoodID>
         <FoodName>ข้าวเครื่องเเกง </FoodName>
         <Price> 40 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
-        <FoodID><FoodID> 004 </FoodID>
+        <FoodID> 004 </FoodID>
         <FoodName>ผัดผัก</FoodName>
         <Price> 25 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
         <FoodID><FoodID> 005 </FoodID>
         <FoodName> สุกี้ </FoodName>
         <Price> 30 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
-        <FoodID><FoodID> 006 </FoodID>
+        <FoodID> 006 </FoodID>
         <FoodName> เเกงพริกหมู </FoodName>
         <Price> 35 บาท </Price>
     </ThaiFood>
 
     <ThaiFood>
-        <FoodID><FoodID> 007 </FoodID>
+        <FoodID> 007 </FoodID>
         <FoodName> ราดหน้า </FoodName>
         <Price> 35 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
         <FoodID><FoodID> 008 </FoodID>
         <FoodName> ก๋วยเตี๋ยว </FoodName>
         <Price> 35 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
-        <FoodID><FoodID> 009 </FoodID>
+        <FoodID> 009 </FoodID>
         <FoodName> ผัดไท </FoodName>
         <Price> 40 บาท </Price>
     </ThaiFood>
-
     <ThaiFood>
-        <FoodID><FoodID> 010 </FoodID>
+        <FoodID>010 </FoodID>
         <FoodName> ข้าวผัดปู </FoodName>
         <Price> 45 บาท </Price>
     </ThaiFood>
