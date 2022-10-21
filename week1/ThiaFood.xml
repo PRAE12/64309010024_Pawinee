@@ -20,7 +20,7 @@
         <Price> 25 บาท </Price>
     </ThaiFood>
     <ThaiFood>
-        <FoodID><FoodID> 005 </FoodID>
+        <FoodID>005 </FoodID>
         <FoodName> สุกี้ </FoodName>
         <Price> 30 บาท </Price>
     </ThaiFood>
