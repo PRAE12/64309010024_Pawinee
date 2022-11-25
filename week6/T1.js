@@ -83,7 +83,9 @@ for (empsum = 0; empsum < emp.length; empsum++) {
     p1 = emp[empsum].salary * 12;
     p7 = p1 + p3
     p6 += p7;
-    if (p1 < 300000) {} else if (p1 >= 300000 && p1 <= 600000) {
+    if (p1 < 300000) {
+
+    } else if (p1 >= 300000 && p1 <= 600000) {
         p2 = p1 * 0.10;
         p4 += p2;
     } else if (p1 >= 600000 && p1 <= 10000000) {
