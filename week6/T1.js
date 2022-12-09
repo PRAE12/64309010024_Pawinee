@@ -67,6 +67,7 @@ let p4 = 0
 let p5 = 0
 let p6 = 0
 for (empsum = 0; empsum < emp.length; empsum++) {
+
     if (emp[empsum].bonus == "S") {
         p3 = emp[empsum].salary * 1.6;
         p5 += p3;
@@ -83,14 +84,14 @@ for (empsum = 0; empsum < emp.length; empsum++) {
     p1 = emp[empsum].salary * 12;
     p7 = p1 + p3
     p6 += p7;
-    if (p1 < 300000) {
+
+    if (p1 <= 300000) {
         p2 = p1 * 0;
         p4 += p2;
-
     } else if (p1 >= 300000 && p1 <= 600000) {
         p2 = p1 * 0.10;
         p4 += p2;
-    } else if (p1 >= 600000 && p1 <= 10000000) {
+    } else if (p1 >= 600000 && p1 <= 1000000) {
         p2 = p1 * 0.25;
         p4 += p2;
     } else if (p1 > 1000000) {
