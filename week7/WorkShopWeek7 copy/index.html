@@ -24,7 +24,6 @@
         function getAjex() {
             xhttp.open("GET", "http://localhost:3000/book");
             xhttp.send();
-
             xhttp.onload = function() {
                 let Obj = JSON.parse(this.responseText);
                 console.log(Obj);
